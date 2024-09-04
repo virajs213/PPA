@@ -11,10 +11,10 @@ class AbstractDemo
 
         float fRet = 0.0f;
         fRet = sobj.CalculateROI();
-        System.out.println("ROI od SBI is : "+fRet);  //5.7
+        System.out.println("ROI of SBI is : "+fRet);  //5.7
 
          fRet = bobj.CalculateROI();
-        System.out.println("ROI od BOM is : "+fRet);  //7.7
+        System.out.println("ROI of BOM is : "+fRet);  //7.7
         
 
     }
